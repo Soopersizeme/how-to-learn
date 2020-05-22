@@ -33,6 +33,7 @@
 .logo {
   background-repeat: no-repeat;
   background-size: cover;
+  width: 183px;
 }
 
 .logo_place_header {
@@ -40,7 +41,6 @@
   left: 64px;
   position: absolute;
   z-index: 100;
-  width: 183px;
   height: 32px;
   background-image: url("../images/logo_place_header.svg");
 }
@@ -319,7 +319,6 @@
 }
 
 .logo_place_footer {
-  width: 183px;
   height: 35px;
   background-image: url("../images/logo_place_footer.svg")
 }
