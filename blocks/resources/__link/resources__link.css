@@ -1,9 +1,9 @@
-.resources__logo_link {
+.resources__link {
   display: flex;
   transition: transform 0.3s ease;
 }
 
-.resources__logo_link:hover {
+.resources__link:hover {
   opacity: 0.4;
   transform: scale(1.1);
 }

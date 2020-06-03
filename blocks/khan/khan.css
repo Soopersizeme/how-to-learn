@@ -6,10 +6,10 @@
 @import url('./__quote-author/khan__quote-author.css');
 @import url('./__quote/khan__quote.css');
 @import url('./__title/khan__title.css');
+@import url('./__container/khan__container.css');
 
 .khan {
-  margin: 105px auto 0 auto;
-  width: 80%;
+  background-color: #f2f2f2;
 }
 
 
